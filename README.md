@@ -1,2 +1,2 @@
 # webt1
-index.html
+ind.html
